@@ -1640,7 +1640,7 @@ async def callback_data(bot, update: CallbackQuery):
     if query_data == "start":
         buttons = [[
             InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/CYBER_YT1'),
-            InlineKeyboardButton('Source Code 🧾', url ='https://t.me/M_SRER_TECH_GROUP')
+            InlineKeyboardButton('Source Code 🧾', url ='https://github.com/M-STER-YT/Adv-Auto-Filter-Bot-V2')
         ],[
             InlineKeyboardButton('Support 🛠', url='https://t.me/M_SRER_TECH_GROUP')
         ],[
