@@ -146,7 +146,3 @@ async def about(bot, update):
         parse_mode="html",
         reply_to_message_id=update.message_id
     )
-@Client.on_message(filters.command(["test"]) & filters.private, group=1)
-async def test_sticker(bot, update):
-    print(update)
-    await update.reply_sticker(sticker="CAACAgUAAxkBAAITMWDPagTnlfu9TY_r3hi7X1kTlMDFAAIVAQACyJRkFGZEMKKnFWwTHgQ")
