@@ -5,11 +5,12 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i>Am Just A Advance Auto Filter Bot v4....😉
 
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
 For More Details Click Help Button Below..
+
 @M_STER_TECH
 </i>"""    
     
@@ -48,5 +49,5 @@ For More Details Click Help Button Below..
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/CYBER_YT1>BOT_MASTER</a></i></b>
+<b>➥ Creator</b> : @CYBER_YT1
 """
