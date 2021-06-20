@@ -12,23 +12,23 @@
     "success_url": "https://telegram.dog/M_STER_TECH",
     "env": {
         "APP_ID": {
-            "description": "vediode thaye und athilude eduam",
+            "description": "vediode thaye und athilude edukaam",
             "value": ""
         },
         "API_HASH": {
-            "description": "vediode thaye und athilude eduam",
+            "description": "vediode thaye und athilude edukaam",
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "vediode thaye und athilude eduam",
+            "description": "vediode thaye und athilude edukaam",
             "value": ""
         },
         "DB_URI": {
-            "description": "vediode thaye und athilude eduam",
+            "description": "vediode thaye und athilude edukaam",
             "value": ""
         },
         "USER_SESSION": {
-            "description": "vediode thaye und athilude eduam",
+            "description": "vediode thaye und athilude edukaam",
             "value": ""
         }
     },
